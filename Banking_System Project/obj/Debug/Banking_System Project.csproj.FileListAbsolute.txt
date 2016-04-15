@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Banking_System Project\Banking_System Project\bin\Debug\Banking_System Project.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Banking_System Project\Banking_System Project\bin\Debug\Banking_System Project.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Banking_System Project\Banking_System Project\bin\Debug\Banking_System Project.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Banking_System Project\Banking_System Project\obj\Debug\Banking_System Project.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Banking_System Project\Banking_System Project\obj\Debug\Banking_System Project.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Banking_System Project\Banking_System Project\obj\Debug\Banking_System Project.pdb
